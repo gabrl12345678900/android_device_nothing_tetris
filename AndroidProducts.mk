@@ -5,4 +5,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_tetris.mk
+    $(LOCAL_DIR)/pixelos_tetris.mk
