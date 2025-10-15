@@ -15,7 +15,7 @@ $(call inherit-product, vendor/lmodroid/config/common_full_phone.mk)
 # Inherit from tetris device
 $(call inherit-product, device/nothing/tetris/device.mk)
 
-PRODUCT_NAME := lineage_tetris
+PRODUCT_NAME := lmodroid_tetris
 PRODUCT_DEVICE := tetris
 PRODUCT_BRAND := Nothing
 PRODUCT_MANUFACTURER := Nothing
